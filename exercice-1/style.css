@@ -165,7 +165,7 @@ footer {
 
 @media (max-width: 450px) {
  body {
-  background-color: lightsalmon;
+  background-color: rgb(137, 103, 89);
  }
 
  .section-left article {
