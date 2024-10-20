@@ -25,7 +25,9 @@ nav {
 }
 
 .nav-logo:hover {
-  background-color: yellow;
+  background-color: rgb(223, 223, 122);
+  height: 60px;
+  width: 60px;
 }
 
 .banner {
