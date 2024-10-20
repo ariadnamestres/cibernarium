@@ -11848,4 +11848,37 @@ button {
   margin: 4px;
 }
 
+.card {
+  margin-left: 20px;
+  width: 18rem;
+}
+
+.card-img-top {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.btn-link {
+  color: white;
+  text-decoration: none;
+}
+
+.footer-brand {
+  color: white;
+  text-decoration: none;
+}
+
+.nav.nav-tabs.d-flex.flex-column.flex-sm-row {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.nav-link.active {
+  margin-bottom: 10px;
+  color: #FA5959;
+  font-weight: bold;
+}
+
 /*# sourceMappingURL=style.css.map */

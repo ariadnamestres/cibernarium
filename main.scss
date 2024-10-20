@@ -1,11 +1,42 @@
-
 $primary: #5265E1;
 $secondary: #FA5959;
-$success: 	#808080;	
+$success: #808080;
 
 @import "./node_modules/bootstrap/scss/bootstrap.scss";
 
-
 button {
   margin: 4px;
+}
+
+.card {
+  margin-left: 20px;
+  width: 18rem;
+}
+
+.card-img-top {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.btn-link {
+  color: white;
+  text-decoration: none;
+}
+
+.footer-brand {
+  color: white;
+  text-decoration: none;
+}
+
+.nav.nav-tabs.d-flex.flex-column.flex-sm-row {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.nav-link.active {
+  margin-bottom: 10px; 
+  color: $secondary; 
+  font-weight: bold; 
 }
