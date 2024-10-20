@@ -126,12 +126,12 @@ footer {
   }
 
 
-/*Medis Queries*/
+/*Medis Queries versio tauleta*/
 
 @media (max-width: 900px) {
 
   body {
-    background-color: grey;
+    background-color: rgb(14, 9, 9);
   }
 
 
